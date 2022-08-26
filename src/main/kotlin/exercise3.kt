@@ -23,10 +23,10 @@ class Student(firstname:String,lastname:String,age: Int,eno:Long,branch:String,C
 
 }
 fun main(){
-    var s1=Student("Keyur","Raval",20,20012011146,"CE","C","AB8")
-    var s2=Student("Saumil","Patel",20,20012011148,"CE","C","AB7")
-    var s3=Student("Dhyey","Patel",21,20012011141,"IT","B","AB3")
-    var s4=Student("Tirth","Desai",19,20012011143,"CE","A","AB9")
-    var s5=Student("Shivam","Mehta",20,20012011148,"AI","A","AB1")
+    var s1=Student("Het","Kikani",19,20012011052,"CE","C","AB7")
+    var s2=Student("Prasanna","Pandit",19,20012011073,"CE","C","AB8")
+    var s3=Student("Joyal","Patel",19,20012011048,"CE","C","AB7")
+    var s4=Student("Ravi","Gohel",19,20012011043,"CE","C","AB7")
+    var s5=Student("Kenil","Gor",19,20012011044,"CE","C","AB7")
 
 }
